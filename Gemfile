@@ -6,6 +6,8 @@ ruby '2.6.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.3'
 
+# Bootstrap gem
+gem 'bootstrap', '~> 5.0.0.beta2'
 # Use devise to manage user authentication
 gem 'devise'
 # Use Puma as the app server
