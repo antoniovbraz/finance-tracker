@@ -8,6 +8,8 @@ gem 'rails', '~> 6.1.3'
 
 # Bootstrap gem
 gem 'bootstrap', '~> 5.0.0.beta2'
+# IEX Gem
+gem 'iex-ruby-client'
 # Use devise to manage user authentication
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
