@@ -5,7 +5,8 @@ ruby '2.6.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.3'
-
+# Font-awesome gem
+gem "font-awesome-rails"
 # Bootstrap gem
 gem 'bootstrap', '~> 5.0.0.beta2'
 # IEX Gem
